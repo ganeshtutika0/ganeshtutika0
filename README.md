@@ -9,31 +9,31 @@ My work mainly focuses on data analytics, visualization, and digital transformat
 
 ## 🧠 What I work with
 
-SQL, Python (Pandas, NumPy) for data analysis and automation
+- SQL, Python (Pandas, NumPy) for data analysis and automation
 
-Power BI for dashboards, KPIs, and reporting
+- Power BI for dashboards, KPIs, and reporting
 
-Excel for data preparation and analysis
+- Excel for data preparation and analysis
 
-Statistics & data quality checks
+- Statistics & data quality checks
 
 ## 🚀 What I’m currently doing
 
-Building data analytics and visualization projects
+- Building data analytics and visualization projects
 
-Creating Power BI dashboards with KPIs
+- Creating Power BI dashboards with KPIs
 
-Exploring data-driven digitalization and business analytics
+- Exploring data-driven digitalization and business analytics
 
-Seeking a mandatory Data Analyst internship
+- Seeking a mandatory Data Analyst internship
 
 ## 📌 Projects you’ll find here
 
-SQL data analysis on real-world datasets
+- SQL data analysis on real-world datasets
 
-Power BI dashboards & reports
+- Power BI dashboards & reports
 
-Data cleaning and transformation workflows
+- Data cleaning and transformation workflows
 
 ## 📫 Let’s connect
 
