@@ -35,3 +35,11 @@ Power BI dashboards & reports
 
 Data cleaning and transformation workflows
 
+## 📫 Let’s connect
+
+💼 LinkedIn: [www.linkedin.com/in/ganeshtutika]
+
+📧 Email: [ganeshtutika0@gmail.com]
+
+🌍 Location: Germany
+
