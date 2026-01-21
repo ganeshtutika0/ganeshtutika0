@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hey there! 👋
+ 
+I’m Ganesh, a Data Analytics enthusiast based in Germany.
+I work with data to uncover patterns, build insights, and turn numbers into meaningful stories.
 
-<!--
-**ganeshtutika0/ganeshtutika0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy analyzing real-world datasets, creating interactive dashboards, and automating reporting workflows that support data-driven decision-making.
 
-Here are some ideas to get you started:
+My work mainly focuses on data analytics, visualization, and digital transformation use cases, combining analytical thinking with a strong technical foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧠 What I work with
+
+SQL, Python (Pandas, NumPy) for data analysis and automation
+
+Power BI for dashboards, KPIs, and reporting
+
+Excel for data preparation and analysis
+
+Statistics & data quality checks
+
+## 🚀 What I’m currently doing
+
+Building data analytics and visualization projects
+
+Creating Power BI dashboards with KPIs
+
+Exploring data-driven digitalization and business analytics
+
+Seeking a mandatory Data Analyst internship
+
+## 📌 Projects you’ll find here
+
+SQL data analysis on real-world datasets
+
+Power BI dashboards & reports
+
+Data cleaning and transformation workflows
 
