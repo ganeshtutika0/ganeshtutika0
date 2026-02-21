@@ -25,8 +25,6 @@ My work mainly focuses on data analytics, visualization, and digital transformat
 
 - Exploring data-driven digitalization and business analytics
 
-- Seeking a mandatory Data Analyst internship
-
 ## 📌 Projects you’ll find here
 
 - SQL data analysis on real-world datasets
